@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "source": "Livsmedelsverket",
+  "sourceVersion": "2026-07-01",
+  "foodCount": 2606,
+  "databaseFile": "swedish_foods.json",
+  "minimumAppSchemaVersion": 1
+}
