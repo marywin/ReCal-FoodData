@@ -4,5 +4,6 @@
   "sourceVersion": "2026-07-01",
   "foodCount": 2606,
   "databaseFile": "swedish_foods.json",
-  "minimumAppSchemaVersion": 1
+  "minimumAppSchemaVersion": 1,
+  "sha256": "bb9fc693dd26da642755b471f343d03373b3d79f0c494ced252d4898b7759aa6"
 }
